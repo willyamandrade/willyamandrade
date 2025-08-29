@@ -1,5 +1,9 @@
 ## oi
 
+- 🖥️ Estudante de **Técnico Integrado em Informática** no IFCE-MPE.
+- 📚 Aqui se encontram repositórios usados para as atividades passadas pelos professores ao longo dos semestres.
+- ⌨️ Atualmente estudando as linguagens **Java** e **HTML**.
+
 <div align="center">
 <img alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=willyamandrade&show_icons=true&theme=holi&locale=pt-br&border_radius=15"/>
 <img alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyamandrade&border_radius=15&layout=compact&theme=holi&locale=pt-br"/>
