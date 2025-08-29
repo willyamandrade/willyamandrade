@@ -1,6 +1,7 @@
 ## oi
 
 - 🖥️ Estudante de **Técnico Integrado em Informática** no IFCE-MPE.
+- 🎒 2º Ano do ensino médio, semestre 4.
 - 📚 Aqui se encontram repositórios usados para as atividades passadas pelos professores ao longo dos semestres.
 - ⌨️ Atualmente estudando as linguagens **Java** e **HTML**.
 
